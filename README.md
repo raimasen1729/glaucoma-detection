@@ -1,4 +1,4 @@
-# Glaucoma-Detection
+# Glaucoma Detection
 Improved Glaucoma Diagnosis with Compact ResNet 
 
 [View Publication](https://ieeexplore.ieee.org/document/9198524)
